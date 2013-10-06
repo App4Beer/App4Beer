@@ -12,4 +12,4 @@ Yuval Ran, 032513483, [(yuval.ran@mail.huji.ac.il)](mailto:yuval.ran@mail.huji.a
 
 Netanel Kaufman, 036497980, [(kaufman.netanel@gmail.com)](mailto:kaufman.netanel@gmail.com)
 
-![Title](https://github.intel.com/App4Beer/App4Beer/blob/master/beer.png)
+![App4Beer](https://github.intel.com/App4Beer/App4Beer/blob/master/beer.png)
